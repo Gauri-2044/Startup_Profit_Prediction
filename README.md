@@ -37,15 +37,19 @@ User enters spending values & state
 Model instantly predicts expected profit
 
 ## 💻 Run Locally
+1.
 ``bash
 git clone https://github.com/your-username/startup-profit-prediction.git
-``
+2.
 ``bash
 cd startup-profit-prediction
+
 ``
+3. 
 ``bash
 pip install pandas numpy scikit-learn matplotlib
 ``
+4. 
 ``bash
 jupyter notebook
 ``
