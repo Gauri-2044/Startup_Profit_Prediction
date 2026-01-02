@@ -38,21 +38,21 @@ Model instantly predicts expected profit
 
 ## 💻 Run Locally
 1.
-``bash
+```bash
 git clone https://github.com/your-username/startup-profit-prediction.git
+```
 2.
-``bash
+```bash
 cd startup-profit-prediction
-
-``
+```
 3. 
-``bash
+```bash
 pip install pandas numpy scikit-learn matplotlib
-``
+```
 4. 
-``bash
+```bash
 jupyter notebook
-``
+```
 Run all cells and update input values to get predictions.
 
 ## 📸 Output
